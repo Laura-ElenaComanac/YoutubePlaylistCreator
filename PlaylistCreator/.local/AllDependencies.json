@@ -3530,15 +3530,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\laura-elena.olaru\\.nuget\\packages\\": {}
+    "C:\\Users\\denis\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "PlaylistCreator",
       "projectName": "PlaylistCreator",
-      "projectPath": "\\\\Mac\\Home\\Downloads\\RPA\\GIT\\YoutubePlaylistCreator\\PlaylistCreator\\.local",
-      "packagesPath": "C:\\Users\\laura-elena.olaru\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Downloads\\RPA\\GIT\\YoutubePlaylistCreator\\PlaylistCreator\\.local"
+      "projectPath": "C:\\Users\\denis\\Desktop\\RPA\\ProiectRPA\\YoutubePlaylistCreator\\PlaylistCreator\\.local",
+      "packagesPath": "C:\\Users\\denis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\denis\\Desktop\\RPA\\ProiectRPA\\YoutubePlaylistCreator\\PlaylistCreator\\.local"
     },
     "frameworks": {
       "net461": {
