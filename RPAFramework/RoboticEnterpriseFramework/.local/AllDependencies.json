@@ -2944,15 +2944,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\laura-elena.olaru\\.nuget\\packages\\": {}
+    "C:\\Users\\denis\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "RoboticEnterpriseFramework",
       "projectName": "RoboticEnterpriseFramework",
-      "projectPath": "\\\\Mac\\Home\\Downloads\\RPA\\GIT\\YoutubePlaylistCreator\\RPAFramework\\RoboticEnterpriseFramework\\.local",
-      "packagesPath": "C:\\Users\\laura-elena.olaru\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Downloads\\RPA\\GIT\\YoutubePlaylistCreator\\RPAFramework\\RoboticEnterpriseFramework\\.local"
+      "projectPath": "C:\\Users\\denis\\Desktop\\RPA\\ProiectRPA\\YoutubePlaylistCreator\\RPAFramework\\RoboticEnterpriseFramework\\.local",
+      "packagesPath": "C:\\Users\\denis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\denis\\Desktop\\RPA\\ProiectRPA\\YoutubePlaylistCreator\\RPAFramework\\RoboticEnterpriseFramework\\.local"
     },
     "frameworks": {
       "net461": {
