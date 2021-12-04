@@ -2950,9 +2950,9 @@
     "restore": {
       "projectUniqueName": "RoboticEnterpriseFramework",
       "projectName": "RoboticEnterpriseFramework",
-      "projectPath": "C:\\Users\\denis\\Desktop\\RPA\\ProiectRPA\\YoutubePlaylistCreator\\RPAFramework\\RoboticEnterpriseFramework\\.local",
+      "projectPath": "C:\\Users\\denis\\Desktop\\RPA\\RPAProiect\\YoutubePlaylistCreator\\RPAFramework\\RoboticEnterpriseFramework\\.local",
       "packagesPath": "C:\\Users\\denis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\denis\\Desktop\\RPA\\ProiectRPA\\YoutubePlaylistCreator\\RPAFramework\\RoboticEnterpriseFramework\\.local"
+      "outputPath": "C:\\Users\\denis\\Desktop\\RPA\\RPAProiect\\YoutubePlaylistCreator\\RPAFramework\\RoboticEnterpriseFramework\\.local"
     },
     "frameworks": {
       "net461": {
