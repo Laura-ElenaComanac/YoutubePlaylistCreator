@@ -3,6 +3,7 @@
   "description": "Robotic Enterprise Framework",
   "main": "Main.xaml",
   "dependencies": {
+    "Microsoft.Activities": "[1.0.1]",
     "UiPath.Excel.Activities": "[2.9.5]",
     "UiPath.System.Activities": "[20.10.4]",
     "UiPath.UIAutomation.Activities": "[20.10.9]"

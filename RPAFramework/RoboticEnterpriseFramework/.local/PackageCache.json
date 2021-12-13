@@ -137,6 +137,21 @@
         "C:\\Users\\denis\\.nuget\\packages\\uipath.vision/2.2.0\\lib/net461/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\denis\\.nuget\\packages\\uipath.uiautomation.activities\\20.10.9"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Activities",
+        "Version": "1.0.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\denis\\.nuget\\packages\\microsoft.activities/1.0.1\\lib/net45/Microsoft.Activities.Design.dll",
+        "C:\\Users\\denis\\.nuget\\packages\\microsoft.activities/1.0.1\\lib/net45/Microsoft.Activities.Design.Services.dll",
+        "C:\\Users\\denis\\.nuget\\packages\\microsoft.activities/1.0.1\\lib/net45/Microsoft.Activities.dll",
+        "C:\\Users\\denis\\.nuget\\packages\\microsoft.activities/1.0.1\\lib/net45/Microsoft.Workflow.Client.dll",
+        "C:\\Users\\denis\\.nuget\\packages\\microsoft.activities/1.0.1\\lib/net45/Microsoft.Workflow.Common.dll",
+        "C:\\Users\\denis\\.nuget\\packages\\microsoft.activities/1.0.1\\lib/net45/Microsoft.Workflow.Tracing.dll"
+      ],
+      "Path": "C:\\Users\\denis\\.nuget\\packages\\microsoft.activities\\1.0.1"
     }
   ],
   "Conflicts": [],
@@ -203,6 +218,11 @@
     "Humanizer.Core": {
       "Id": "Humanizer.Core",
       "Version": "2.4.2",
+      "Dependencies": []
+    },
+    "Microsoft.Activities": {
+      "Id": "Microsoft.Activities",
+      "Version": "1.0.1",
       "Dependencies": []
     },
     "Microsoft.AspNet.SignalR.Client": {
@@ -968,6 +988,21 @@
         "C:\\Users\\denis\\.nuget\\packages\\humanizer.core\\2.4.2\\lib\\netstandard2.0\\Humanizer.dll"
       ],
       "Path": "C:\\Users\\denis\\.nuget\\packages\\humanizer.core\\2.4.2"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Activities",
+        "Version": "1.0.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\denis\\.nuget\\packages\\microsoft.activities\\1.0.1\\lib\\net45\\Microsoft.Activities.Design.dll",
+        "C:\\Users\\denis\\.nuget\\packages\\microsoft.activities\\1.0.1\\lib\\net45\\Microsoft.Activities.Design.Services.dll",
+        "C:\\Users\\denis\\.nuget\\packages\\microsoft.activities\\1.0.1\\lib\\net45\\Microsoft.Activities.dll",
+        "C:\\Users\\denis\\.nuget\\packages\\microsoft.activities\\1.0.1\\lib\\net45\\Microsoft.Workflow.Client.dll",
+        "C:\\Users\\denis\\.nuget\\packages\\microsoft.activities\\1.0.1\\lib\\net45\\Microsoft.Workflow.Common.dll",
+        "C:\\Users\\denis\\.nuget\\packages\\microsoft.activities\\1.0.1\\lib\\net45\\Microsoft.Workflow.Tracing.dll"
+      ],
+      "Path": "C:\\Users\\denis\\.nuget\\packages\\microsoft.activities\\1.0.1"
     },
     {
       "Package": {
